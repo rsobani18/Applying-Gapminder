@@ -4,4 +4,4 @@ Applying Gapminder data set with ggplot to make various plots showing data about
 Scaling plots, applying themes, and faceting grid.
 
 
-Done as classwork for HarvardX - PH125.3x (Data Science: Visualization)
+Done as classwork for HarvardX - PH125.2x (Data Science: Visualization)
